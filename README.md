@@ -1,2 +1,2 @@
 # 6-bar-mechanism-design-and-simulation
- Designing a 6 bar mechanism on linkage and simulating its motion on MATLAB
+A 6-bar Mechanism consisting of six links with one being designated as frame (or ground) was designed. The mechanism contained one slider and one crank. I derived the forward kinematics of the system as well as their derivatives to obtain the equations needed to simulate the motion and plot it on MATLAB. The position, velocity, and acceleration of the mechanism's joints for a full operating cycle were computed and plotted via MATLAB
