@@ -1,0 +1,1 @@
+Here the forward kinematics and their derivatives of our mechanism were derived. These equations were later used for the simulation on MATLAB for a complete cycle
